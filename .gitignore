@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.onnx
+*.log
+*.csv
+*.jpg
+*.png
+*.jpeg
+*.bmp
+.venv/
+models/
+runs/
+outputs/
+dataset/yolo/images/
+dataset/yolo/labels/
